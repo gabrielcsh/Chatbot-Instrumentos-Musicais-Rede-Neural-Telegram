@@ -1,0 +1,2 @@
+# Chatbot-Instrumentos-Musicais-Rede-Neural-Telegram
+Trabalho desenvolvido para a disciplina de Inteligência Artificial com o objetivo de construir um chatbot classificador de objetos (instrumentos musicais) que identifique uma foto enviada para o sistema via telegram.  Foram testadas 3 arquiteturas pré-treinadas do PyTorch (MobileNet V3 Small, GoogleNet e EfficientNet), e selecionada a que apresentou o melhor desempenho durante o ajuste do algoritmo.
