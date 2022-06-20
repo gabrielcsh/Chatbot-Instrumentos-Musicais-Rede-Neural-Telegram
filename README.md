@@ -8,3 +8,15 @@ Vídeo de apresentação do chatbot: https://drive.google.com/file/d/1MZGUYezkzf
 Pasta Compartilhada no Drive: https://drive.google.com/drive/folders/1sWiaP9MKqrGgVey3xkrlAMiKcHJt2lJx?usp=sharing
 
 Notebook Google Colab: https://colab.research.google.com/drive/1mY31_nddZ-MGJ87qMJrn-JWTmiHlU63W?usp=sharing
+
+Lista de Instrumentos no Dataset inicial:
+- Bateria
+- Clarinete
+- Contrabaixo Elétrico
+- Flauta
+- Guitarra
+- Saxofone
+- Teclado
+- Trompete
+- Violão
+- Violino
